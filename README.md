@@ -1,4 +1,3 @@
-````markdown
 # Object Tracking with OpenCV
 
 This project implements object tracking using OpenCV's CSRT (Discriminative Correlation Filter) tracker. The application allows you to select a Region of Interest (ROI) and track the selected object in a video file.
@@ -16,7 +15,6 @@ Create a virtual environment to keep your dependencies isolated:
 ```bash
 python3 -m venv venv
 ```
-````
 
 Activate the virtual environment:
 
@@ -121,4 +119,8 @@ Once you’ve created the `README.md`, add it to Git and push it to the reposito
 git add README.md images/
 git commit -m "Add README with setup instructions and example images"
 git push origin main
+```
+
+```
+
 ```
