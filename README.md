@@ -60,7 +60,7 @@ Here are some example images of how the project works:
 
 ### Example 1: Selecting the ROI
 
-![Selecting the ROI](./resources/images/Tracking_screenshot_26.01.2025.png)
+![Selecting the ROI](./resources/images/RO_selector_screenshot_26.01.2025.png)
 
 ### Example 2: Object Tracking in Progress
 
