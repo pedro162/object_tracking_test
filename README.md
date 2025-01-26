@@ -120,7 +120,3 @@ git add README.md images/
 git commit -m "Add README with setup instructions and example images"
 git push origin main
 ```
-
-```
-
-```
